@@ -16,6 +16,5 @@ Helps target marketing toward fast-moving or high-repeat products.
 Identifies markets with strong customer loyalty that could be nurtured further.
 3. What are the average and median basket sizes (Quantity × UnitPrice) across all customers?
 Useful for crafting upselling and cross-selling strategies.
-
 4. Are certain stock codes frequently purchased together (market basket analysis)?
 Supports bundling strategies and targeted promotions.
