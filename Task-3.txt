@@ -1,0 +1,16 @@
+Good afternoon,
+
+I’m excited to walk you through some key insights from your data. Thanks for sharing the questions—it really helped focus the analysis on what matters most to your business.
+
+First, I cleaned the data to remove any entries with negative quantities or prices, so the results are accurate and reliable.
+
+For the first question on revenue trends, the data shows steady sales for most of the year, with a noticeable spike starting in September and peaking in November. This suggests strong seasonal demand toward the end of the year.
+
+Next, I looked at the top 10 countries outside the UK with the highest sales and revenue. Countries like the Netherlands, Germany, and Ireland stand out as promising markets with significant growth potential.
+
+Regarding your top customers, the data indicates a fairly even distribution of revenue among the top 10 buyers, meaning the business isn't overly dependent on just a few clients. This is a healthy sign for your revenue stability.
+
+Finally, the regional demand map highlights Europe, especially countries like Germany and France, as key revenue drivers. There’s also an opportunity to explore under-served markets in Asia, Africa, and the Americas for future expansion.
+
+Thanks for your time! If you want to dive deeper into any area or have additional questions, I’m happy to help.
+
