@@ -1,0 +1,21 @@
+CEO
+
+1. Which product categories generate the highest total revenue?
+This helps identify which items are driving sales and should be prioritized in production or promotions.
+2. Which countries contribute most to total revenue and order volume?
+Enables the business to target high-performing markets and evaluate potential expansion.
+3. How many unique customers are making purchases, and is the customer base growing over time?
+Understanding growth in customer count is key to evaluating market reach and business health.
+4. Are there specific time periods (days/weeks) with consistently high or low order volumes?
+Identifies buying patterns for inventory and staffing optimization.
+
+CMO
+1. Which products have the highest purchase frequency per customer?
+Helps target marketing toward fast-moving or high-repeat products.
+2. Which countries have the most frequent repeat purchases (based on CustomerID and InvoiceDate)?
+Identifies markets with strong customer loyalty that could be nurtured further.
+3. What are the average and median basket sizes (Quantity × UnitPrice) across all customers?
+Useful for crafting upselling and cross-selling strategies.
+
+4. Are certain stock codes frequently purchased together (market basket analysis)?
+Supports bundling strategies and targeted promotions.
